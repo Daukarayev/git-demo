@@ -17,3 +17,7 @@ and here!
 
 
 first commit
+now i add more change after already committing the file
+
+again, first commit
+again, changes after commit was already done
