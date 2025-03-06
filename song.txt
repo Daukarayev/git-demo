@@ -5,27 +5,6 @@ on this their chosen battle field
 
 form the lines
 shield by shield
-brick by brick.
-
-let's check
-one more check
-
-checking the git gui
-some more content
-heerree
-and here!
-
-
-first commit
-now i add more change after already committing the file
-
-again, first commit
-again, changes after commit was already done
-
-now we check the git reset HEAD^^ (HEAD~2) //carrots stand for a number of commits to go back
-add some more content
-
-
-
-
-
+side by side
+we're marching into destiny
+-----------------------------------
