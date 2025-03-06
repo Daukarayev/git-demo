@@ -21,3 +21,6 @@ now i add more change after already committing the file
 
 again, first commit
 again, changes after commit was already done
+
+now we check the git reset HEAD^^ (HEAD~2) //carrots stand for a number of commits to go back
+add some more content
