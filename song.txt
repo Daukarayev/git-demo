@@ -24,3 +24,8 @@ Testing the branching again. In branch feature2
 
 second commit in the branch feature 2
 
+-----------------
+
+just checking
+
+
